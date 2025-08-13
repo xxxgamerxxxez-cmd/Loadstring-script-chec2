@@ -1,2 +1,1 @@
-# Loadstring-script-chec2
-Loadstring script check
+hello я русский bye
